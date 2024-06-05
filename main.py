@@ -7,7 +7,7 @@ def small_function():
 
 def main():
     print("Hello, World! 1")
-    print("Hello, World! 2 hahahahaahahah")
+    print("Hello, World! 2 hahahahaahahah!!!!!!!!!!!!!!!")
     print("Hello, World! 3")
 
 
