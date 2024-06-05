@@ -7,7 +7,7 @@ def small_function():
 
 def main():
     print("Hello, World! 1")
-    print("HELLO, JURASSIC ZHU")
+    print("LIU Fengda.")
     print("Hello, World! 3")
 
 main()
